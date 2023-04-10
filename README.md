@@ -1,0 +1,1 @@
+This repository contains guided projects from different sources that I used to learn/practice some skills.
